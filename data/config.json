@@ -1,0 +1,205 @@
+{
+  "site": {
+    "title": "Purvis Sharma",
+    "tagline": "Creative Director & Editor",
+    "description": "Transforming ideas into stunning visual experiences",
+    "heroSubtitle": "Transforming ideas into stunning visual experiences"
+  },
+  "contact": {
+    "email": "aaryan.sharma0629@gmail.com",
+    "phone": "+91 9987828607",
+    "location": "Thane, Maharashtra, India"
+  },
+  "social": {
+    "instagram": "https://instagram.com",
+    "behance": "https://behance.net",
+    "linkedin": "https://linkedin.com",
+    "youtube": "https://youtube.com"
+  },
+  "about": {
+    "title": "About Me",
+    "description1": "I'm a creative professional with a passion for bringing ideas to life through video editing, graphic design, and visual storytelling. With years of experience in the creative industry, I combine technical expertise with artistic vision to deliver stunning results.",
+    "description2": "Whether it's crafting compelling video narratives, designing eye-catching graphics, or perfecting visual details through photo editing, I'm dedicated to creating work that resonates and inspires.",
+    "imageUrl": "placeholder-about.jpg",
+    "highlights": {
+      "experience": "5+",
+      "projects": "100+",
+      "ideas": "∞"
+    }
+  },
+  "skills": [
+    {
+      "name": "Adobe Premiere Pro",
+      "icon": "🎬",
+      "proficiency": 95
+    },
+    {
+      "name": "Adobe After Effects",
+      "icon": "✨",
+      "proficiency": 90
+    },
+    {
+      "name": "Adobe Photoshop",
+      "icon": "🎨",
+      "proficiency": 92
+    },
+    {
+      "name": "Adobe Media Encoder",
+      "icon": "📊",
+      "proficiency": 88
+    },
+    {
+      "name": "Autodesk Maya (3D)",
+      "icon": "🎯",
+      "proficiency": 85
+    },
+    {
+      "name": "Adobe Illustrator",
+      "icon": "🖌️",
+      "proficiency": 87
+    }
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Ideate",
+      "description": "Brainstorm and conceptualize creative solutions"
+    },
+    {
+      "step": 2,
+      "title": "Plan",
+      "description": "Create detailed plans and storyboards"
+    },
+    {
+      "step": 3,
+      "title": "Create",
+      "description": "Execute the vision with precision"
+    },
+    {
+      "step": 4,
+      "title": "Refine",
+      "description": "Polish and perfect every detail"
+    },
+    {
+      "step": 5,
+      "title": "Deliver",
+      "description": "Present the final masterpiece"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "text": "Exceptional work! Purvis brought our vision to life with creativity and precision.",
+      "author": "Client Name",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "text": "Professional, talented, and a pleasure to work with. Highly recommended!",
+      "author": "Client Name",
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "text": "The quality of work is outstanding. Exceeded all expectations!",
+      "author": "Client Name",
+      "rating": 5
+    }
+  ],
+  "categories": [
+    {
+      "id": "all",
+      "name": "All"
+    },
+    {
+      "id": "video-editing",
+      "name": "Video Editing"
+    },
+    {
+      "id": "graphic-design",
+      "name": "Graphic Design"
+    },
+    {
+      "id": "photo-editing",
+      "name": "Photo Editing"
+    },
+    {
+      "id": "motion-graphics",
+      "name": "Motion Graphics"
+    },
+    {
+      "id": "photography",
+      "name": "Photography"
+    },
+    {
+      "id": "branding",
+      "name": "Branding"
+    },
+    {
+      "id": "posters",
+      "name": "Posters"
+    },
+    {
+      "id": "social-media",
+      "name": "Social Media Designs"
+    }
+  ],
+  "theme": {
+    "primaryColor": "#3d1f5c",
+    "secondaryColor": "#5a2e8f",
+    "accentColor": "#8b4fbf",
+    "lightColor": "#d4a5ff",
+    "yellowAccent": "#ffd700",
+    "redAccent": "#ff1744",
+    "blueAccent": "#00bfff",
+    "darkBg": "#1a0d2e",
+    "textLight": "#f5f5f5"
+  },
+  "animations": {
+    "enabled": true,
+    "duration": "0.3s",
+    "easing": "ease"
+  },
+  "form": {
+    "enabled": true,
+    "endpoint": "/api/contact",
+    "fields": [
+      {
+        "name": "name",
+        "type": "text",
+        "label": "Your Name",
+        "required": true
+      },
+      {
+        "name": "email",
+        "type": "email",
+        "label": "Your Email",
+        "required": true
+      },
+      {
+        "name": "projectType",
+        "type": "select",
+        "label": "Select Project Type",
+        "required": true,
+        "options": [
+          "Video Editing",
+          "Graphic Design",
+          "Photo Editing",
+          "Other"
+        ]
+      },
+      {
+        "name": "message",
+        "type": "textarea",
+        "label": "Your Message",
+        "required": true
+      }
+    ]
+  },
+  "seo": {
+    "title": "Purvis Sharma - Creative Portfolio",
+    "description": "Creative Director & Video Editor. Professional portfolio showcasing video editing, graphic design, and visual storytelling work.",
+    "keywords": "video editing, graphic design, creative director, portfolio",
+    "author": "Purvis Sharma"
+  }
+}
