@@ -1,0 +1,197 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Corporate Promo",
+      "category": "video-editing",
+      "thumbnail": "🎬",
+      "duration": "0:45",
+      "description": "Professional corporate commercial",
+      "tags": ["corporate", "commercial", "promo"],
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Music Video",
+      "category": "video-editing",
+      "thumbnail": "🎵",
+      "duration": "3:20",
+      "description": "Cinematic music video production",
+      "tags": ["music", "cinematic", "production"],
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Short Film",
+      "category": "video-editing",
+      "thumbnail": "🎥",
+      "duration": "5:30",
+      "description": "Award-winning short film",
+      "tags": ["film", "narrative", "award"],
+      "featured": true
+    },
+    {
+      "id": 4,
+      "title": "Social Reel",
+      "category": "video-editing",
+      "thumbnail": "📱",
+      "duration": "0:15",
+      "description": "Viral social media reel",
+      "tags": ["social", "viral", "reel"],
+      "featured": false
+    },
+    {
+      "id": 5,
+      "title": "Brand Identity",
+      "category": "graphic-design",
+      "thumbnail": "🎨",
+      "description": "Complete branding package",
+      "tags": ["branding", "identity", "design"],
+      "featured": true
+    },
+    {
+      "id": 6,
+      "title": "Poster Design",
+      "category": "graphic-design",
+      "thumbnail": "📄",
+      "description": "Eye-catching event poster",
+      "tags": ["poster", "event", "design"],
+      "featured": false
+    },
+    {
+      "id": 7,
+      "title": "Social Media Kit",
+      "category": "graphic-design",
+      "thumbnail": "📸",
+      "description": "Instagram template collection",
+      "tags": ["social", "templates", "instagram"],
+      "featured": true
+    },
+    {
+      "id": 8,
+      "title": "Logo Design",
+      "category": "graphic-design",
+      "thumbnail": "✨",
+      "description": "Modern logo design",
+      "tags": ["logo", "branding", "modern"],
+      "featured": false
+    },
+    {
+      "id": 9,
+      "title": "Portrait Retouch",
+      "category": "photo-editing",
+      "thumbnail": "👤",
+      "description": "Professional portrait enhancement",
+      "tags": ["portrait", "retouching", "photography"],
+      "featured": true
+    },
+    {
+      "id": 10,
+      "title": "Color Grading",
+      "category": "photo-editing",
+      "thumbnail": "🌈",
+      "description": "Cinematic color correction",
+      "tags": ["color", "grading", "cinematic"],
+      "featured": true
+    },
+    {
+      "id": 11,
+      "title": "Background Removal",
+      "category": "photo-editing",
+      "thumbnail": "🎭",
+      "description": "Clean background separation",
+      "tags": ["background", "removal", "editing"],
+      "featured": false
+    },
+    {
+      "id": 12,
+      "title": "Intro Animation",
+      "category": "motion-graphics",
+      "thumbnail": "⚡",
+      "description": "Dynamic intro sequence",
+      "tags": ["animation", "intro", "motion"],
+      "featured": true
+    },
+    {
+      "id": 13,
+      "title": "Explainer Video",
+      "category": "motion-graphics",
+      "thumbnail": "🎬",
+      "description": "Animated explanation video",
+      "tags": ["animation", "explainer", "video"],
+      "featured": false
+    },
+    {
+      "id": 14,
+      "title": "Event Photography",
+      "category": "photography",
+      "thumbnail": "📷",
+      "description": "Professional event coverage",
+      "tags": ["event", "photography", "professional"],
+      "featured": true
+    },
+    {
+      "id": 15,
+      "title": "Product Shots",
+      "category": "photography",
+      "thumbnail": "📦",
+      "description": "Commercial product photography",
+      "tags": ["product", "commercial", "photography"],
+      "featured": false
+    },
+    {
+      "id": 16,
+      "title": "Brand Guidelines",
+      "category": "branding",
+      "thumbnail": "📋",
+      "description": "Comprehensive brand book",
+      "tags": ["branding", "guidelines", "book"],
+      "featured": true
+    },
+    {
+      "id": 17,
+      "title": "Packaging Design",
+      "category": "branding",
+      "thumbnail": "🎁",
+      "description": "Product packaging design",
+      "tags": ["packaging", "design", "branding"],
+      "featured": false
+    },
+    {
+      "id": 18,
+      "title": "Movie Poster",
+      "category": "posters",
+      "thumbnail": "🎞️",
+      "description": "Cinema promotional poster",
+      "tags": ["movie", "poster", "cinema"],
+      "featured": true
+    },
+    {
+      "id": 19,
+      "title": "Concert Poster",
+      "category": "posters",
+      "thumbnail": "🎤",
+      "description": "Music event promotion",
+      "tags": ["concert", "poster", "music"],
+      "featured": false
+    },
+    {
+      "id": 20,
+      "title": "Instagram Story",
+      "category": "social-media",
+      "thumbnail": "📱",
+      "description": "Engaging story template",
+      "tags": ["instagram", "story", "social"],
+      "featured": true
+    },
+    {
+      "id": 21,
+      "title": "YouTube Thumbnail",
+      "category": "social-media",
+      "thumbnail": "🎥",
+      "description": "Click-worthy video thumbnail",
+      "tags": ["youtube", "thumbnail", "social"],
+      "featured": false
+    }
+  ]
+}
